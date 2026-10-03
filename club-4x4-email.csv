@@ -1,0 +1,154 @@
+nazione,organizzazione,email,verifica,tipo,fonte
+Italia,ACI Sport S.p.A.,amministrazione@acisport.aci.it,NON CONFERMATA,istituzionale,https://www.acisport.it/it/contatti
+Italia,Federazione Italiana Fuoristrada (FIF),segreteria@fif4x4.it,VERIFICATA,istituzionale,https://www.fif4x4.it/contatti
+Spagna,Real Federación Española de Automovilismo (RFEDA),info@rfeda.es,VERIFICATA,istituzionale,https://www.rfeda.es/contacto/
+Spagna,RFEDA - Licencias,licencias@rfeda.es,VERIFICATA,istituzionale,https://www.rfeda.es/contacto/
+Portogallo,Federação Portuguesa de Automobilismo e Karting (FPAK),faleconnosco@fpak.pt,VERIFICATA,istituzionale,https://www.fpak.pt/contactos
+Portogallo,FPAK - Secretariado,secretariado@fpak.pt,VERIFICATA,istituzionale,https://www.fpak.pt/contactos
+Portogallo,Clube Land Rover de Portugal,joaorainha@clubelandrover.pt,VERIFICATA,personale,https://alrc.co.uk/clubs/member-clubs/
+Germania,ADAC e.V.,motorsport@adac.de,VERIFICATA,istituzionale,https://www.dmsb.de/de/medien-service/clubs-finden
+Germania,Automobilclub von Deutschland (AvD),sport@avd.de,VERIFICATA,istituzionale,https://www.dmsb.de/de/medien-service/clubs-finden
+Germania,Deutscher Motorsport Verband (DMV),dmv@dmv-motorsport.de,VERIFICATA,istituzionale,https://www.dmsb.de/de/medien-service/clubs-finden
+Germania,Automobil-Club Verkehr (ACV),service@acv.de,VERIFICATA,istituzionale,https://www.dmsb.de/de/medien-service/clubs-finden
+Germania,Allgemeiner Deutscher Motorsport Verband (ADMV),info@admv.de,VERIFICATA,istituzionale,https://www.dmsb.de/de/medien-service/clubs-finden
+Germania,Porsche Club Deutschland e.V.,info@porsche-club-deutschland.de,VERIFICATA,istituzionale,https://www.dmsb.de/de/medien-service/clubs-finden
+Germania,Deutscher Land Rover-Club e.V.,vorsitzender@dlrc.org,VERIFICATA,ruolo generico (chairman),https://alrc.co.uk/clubs/member-clubs/
+Regno Unito,Motorsport UK,hello@motorsportuk.org,NON CONFERMATA,istituzionale,https://motorsportuk.org/contact-us/
+Regno Unito,Motorsport UK - Member Services,memberservices@motorsportuk.org,NON CONFERMATA,reparto soci,https://motorsportuk.org/contact-us/
+Regno Unito,Camel Trophy Club,secretary@cameltrophyclub.com,VERIFICATA,ruolo segretario,https://alrc.co.uk/clubs/member-clubs/
+Regno Unito,Discovery Owners Club,secretary@discoveryownersclub.org,VERIFICATA,ruolo segretario,https://alrc.co.uk/clubs/member-clubs/
+Regno Unito,Land Rover Series I II III Club,secretary@series123club.co.uk,VERIFICATA,ruolo segretario,https://alrc.co.uk/clubs/member-clubs/
+Regno Unito,Land Rover Series II Club,alrc@series2club.co.uk,VERIFICATA,ok,https://alrc.co.uk/clubs/member-clubs/
+Regno Unito,Land Rover Series One Club,secretary@lrsoc.co.uk,VERIFICATA,ruolo segretario,https://alrc.co.uk/clubs/member-clubs/
+Regno Unito,Breckland LRC,secretary@brecklandlrc.com,VERIFICATA,ruolo segretario,https://alrc.co.uk/clubs/member-clubs/
+Regno Unito,Cheltenham & Cotswold ROC,secretary.email@ccroc.co.uk,VERIFICATA,ruolo segretario,https://alrc.co.uk/clubs/member-clubs/
+Regno Unito,Cumbrian ROC (N.W.) Ltd,motorsport@cumbrianrovers.co.uk,VERIFICATA,istituzionale,https://alrc.co.uk/clubs/member-clubs/
+Regno Unito,Dorset Land Rover Club Ltd,secretary@dorsetrover.co.uk,VERIFICATA,ruolo segretario,https://alrc.co.uk/clubs/member-clubs/
+Regno Unito,Essex LRC,secretary@elrc.info,VERIFICATA,ruolo segretario,https://alrc.co.uk/clubs/member-clubs/
+Regno Unito,Midland ROC,secretary@mroc.co.uk,VERIFICATA,ruolo segretario,https://alrc.co.uk/clubs/member-clubs/
+Regno Unito,North Wales LRC,secretary@nwlrc.co.uk,VERIFICATA,ruolo segretario,https://alrc.co.uk/clubs/member-clubs/
+Regno Unito,Southern ROC,ClubSec@sroc.co.uk,VERIFICATA,ruolo segretario,https://alrc.co.uk/clubs/member-clubs/
+Irlanda,Motorsport Ireland,info@motorsportireland.com,VERIFICATA,istituzionale,https://www.motorsportireland.com/
+Paesi Bassi,Koninklijke Nederlandse Autosport Federatie (KNAF),info@knaf.nl,VERIFICATA,istituzionale,https://knaf.nl/
+Belgio,Vlaamse Autosportfederatie (VAS),secretariaat@vas.be,VERIFICATA,istituzionale,https://www.vas.be/
+Lussemburgo,Automobile Club du Luxembourg (ACL),acl@acl.lu,VERIFICATA,istituzionale,https://www.acl.lu/fr/contact/
+Lussemburgo,ACL Karting,karting@acl.lu,VERIFICATA,istituzionale,https://www.acl.lu/fr/contact/
+Croazia,Hrvatski auto i karting savez (HAKS),haks@haks.hr,VERIFICATA,istituzionale,https://haks.hr/kontakt/
+Croazia,HAKS - Press,press@haks.hr,VERIFICATA,reparto stampa,https://haks.hr/kontakt/
+Ungheria,Magyar Nemzeti Autósport Szövetség (MNASZ),mnasz@mnasz.hu,VERIFICATA,istituzionale,https://mnasz.hu/hu/kapcsolat/
+Ungheria,MNASZ - főtitkár,gyorgy.kis@mnasz.hu,VERIFICATA,personale,https://mnasz.hu/hu/kapcsolat/
+Ungheria,MNASZ - rally titkár,balazs.nagy@mnasz.hu,VERIFICATA,personale,https://mnasz.hu/hu/kapcsolat/
+Ungheria,MNASZ - nemzetközi ügyek,eva.galambosi@mnasz.hu,VERIFICATA,personale,https://mnasz.hu/hu/kapcsolat/
+Repubblica Ceca,Autoklub České republiky (AČR),autoklub@autoklub.cz,VERIFICATA,istituzionale,https://www.autoklub.cz/motorsport/reprezentace/kontakty/
+Turchia,Türkiye Otomobil Sporları Federasyonu (TOSFED),info@tosfed.org.tr,VERIFICATA,istituzionale,https://www.tosfed.org.tr/iletisim/
+Turchia,TOSFED - Genel Sekreter,serhanacar@tosfed.org.tr,VERIFICATA,personale,https://www.tosfed.org.tr/iletisim/
+Turchia,TOSFED - Medya Sorumlusu,medya@tosfed.org.tr,VERIFICATA,reparto media,https://www.tosfed.org.tr/iletisim/
+Russia,Российская автомобильная федерация (RAF),raf@raf.su,VERIFICATA,istituzionale,https://raf.su/contacts
+Russia,RAF - Комитет ралли-рейдов,titov@rosgonki.ru,VERIFICATA,personale,https://raf.su/contacts
+Russia,RAF - Комитет трофи-рейдов,raftrothy@yandex.ru,VERIFICATA,"yandex, comitato trofei",https://raf.su/contacts
+Lettonia,Latvijas Automobiļu Federācija (LAF),laf@laf.lv,VERIFICATA,istituzionale,https://laf.lv/kontakti/
+Lettonia,LAF - Trofi reidu komisija,trofi@trofi.lv,VERIFICATA,dominio terzo,https://laf.lv/kontakti/
+Slovenia,Zveza za avto šport Slovenije (AŠ 2005),info@as2005.si,VERIFICATA,istituzionale,https://as2005.eu/kontakt/
+Bulgaria,Българска федерация по автомобилен спорт (BFAS),office@bfas.bg,VERIFICATA,istituzionale,https://bfas.bg/
+Montenegro,Auto Moto Savez Crne Gore (AMSCG),amscg@t-com.me,VERIFICATA,istituzionale,https://amscg.me/kontakt/
+Bosnia,Bosanskohercegovački auto-moto klub (BIHAMK),info@bihamk.ba,VERIFICATA,istituzionale,https://www.bihamk.ba/
+Bosnia,Auto-moto savez u BiH (AMSuBiH),info@amsbih.ba,VERIFICATA,istituzionale,https://amsbih.ba/kontakt/
+Estonia,Eesti Autospordi Liit (EAL),info@autosport.ee,VERIFICATA,istituzionale,https://autosport.ee/kontakt/
+Serbia,Sportski auto i karting savez Srbije (SAKSS),office@sakss.org.rs,VERIFICATA,istituzionale,http://www.sakss.org.rs/
+Polonia,Automobilklub Polski,sekretariat@automobilklubpolski.pl,VERIFICATA,istituzionale,https://automobilklubpolski.pl/
+USA,Tread Lightly!,info@treadlightly.org,VERIFICATA,istituzionale,https://treadlightly.org/
+USA,BlueRibbon Coalition,brc@blueribboncoalition.org,NON CONFERMATA,istituzionale,https://blueribboncoalition.org/contact-us/
+USA,California Four Wheel Drive Association (Cal4Wheel),office@cal4wheel.com,VERIFICATA,istituzionale,https://cal4wheel.com/
+USA,Nevada Offroad Association (NVORA),info@nevadaoffroad.us,VERIFICATA,istituzionale,https://nevadaoffroad.us/contact-us/
+USA,Tierra Del Sol 4-Wheel Drive (TDS 4x4),info@tds4x4.com,VERIFICATA,istituzionale,https://tds4x4.com/contact-us/
+USA,San Diego Off-Road Coalition (SDORC),info@sdorc.org,VERIFICATA,istituzionale,https://sdorc.org/contact-us/
+USA,California Off-Road Vehicle Association (CORVA),info@corva.org,VERIFICATA,istituzionale,https://corva.org/contact
+USA,San Diego 4 Wheelers (SD4W),president@sd4wheel.com,VERIFICATA,ruolo generico,https://sd4wheel.com/contact/
+USA,Pacific Northwest Four Wheel Drive Association (PNW4WDA),president@pnw4wda.org,VERIFICATA,ruolo generico,https://pnw4wda.org/contact/
+Canada,Four Wheel Drive Association of British Columbia (4WDABC),info@4wdabc.ca,NON CONFERMATA,istituzionale,https://4wdabc.ca/contact-us/
+Canada,Ontario Federation of 4WD Recreationists (OF4WD),info@of4wd.com,NON CONFERMATA,istituzionale,https://www.of4wd.com/contact/
+Canada,Alberta Off Highway Vehicle Association (AOHVA),office@aohva.com,NON CONFERMATA,istituzionale,https://aohva.com/contact/
+Messico,Federación Mexicana de Automovilismo Deportivo (FEMADAC),femadac@femadac.org.mx,VERIFICATA,istituzionale,https://femadac.org.mx/contacto-femadac/
+Brasile,Confederação Brasileira de Automobilismo (CBA),cba@cba.org.br,VERIFICATA,istituzionale,https://www.cba.org.br/contato
+Brasile,Rally dos Sertões,contato@sertoes.com.br,VERIFICATA,istituzionale,https://sertoes.com.br/fale-conosco/
+Colombia,Federación Colombiana de Automovilismo Deportivo (FEDEAUTOS),contacto@fedeautos.com.co,NON CONFERMATA,istituzionale,https://fedeautos.com.co/contacto/
+Colombia,Touring & Automóvil Club de Colombia (ACC),info@acc.com.co,VERIFICATA,istituzionale,https://acc.com.co/
+Perù,Touring y Automóvil Club del Perú (TACP),atencioncliente@touring.pe,VERIFICATA,istituzionale,https://www.touring.pe/contactanos/
+Ecuador,Federación Ecuatoriana de Automovilismo y Kartismo (FEDAK),coordinacion@fedak.com.ec,VERIFICATA,istituzionale,https://fedak.com.ec/
+Costa Rica,Automóvil Club de Costa Rica (ACCR),info@automovilclubcr.com,VERIFICATA,istituzionale,https://automovilclubcr.com/contacto/
+Panama,PANAUTO CLUB,contacto@panautoclub.com,VERIFICATA,istituzionale,https://www.panautoclub.com/
+Sudafrica,Motorsport South Africa,info@motorsport.co.za,VERIFICATA,istituzionale,https://www.motorsport.co.za/contact
+Namibia,Motorsport Namibia,info@motorsportnamibia.org,VERIFICATA,istituzionale,https://www.motorsportnamibia.org/affiliated-motorsport-clubs
+Namibia,Namib Off Road Centre,wynand@namiboffroad.com,VERIFICATA,personale,https://namiboffroad.com/
+Namibia,Offroad Centre,info@offroad-centre.com,VERIFICATA,istituzionale,https://www.offroad-centre.com/
+Marocco,Morocco Desert Challenge,gert@morocco-desert-challenge.com,VERIFICATA,personale,https://www.moroccodesertchallenge.com/en/the-rally/4-options
+Marocco,Fenek Rally,info@fenekrally.com,VERIFICATA,istituzionale,https://fenekrally.com/contact/
+Marocco,Rallye du Maroc,competitors@rallyedumaroc.com,VERIFICATA,reparto iscritti,https://rallyemaroc.com/en/contact/
+Emirati Arabi Uniti,Emirates Motorsports Organization (EMSO),info@emso.ae,VERIFICATA,istituzionale,https://www.emso.ae/contact/
+Emirati Arabi Uniti,EMSO - licences,licence@emso.ae,VERIFICATA,reparto licenze,https://www.fia.com/members
+Arabia Saudita,Saudi Motorsport Company,contact-us@saudimotorsport.com,VERIFICATA,istituzionale,https://www.saudimotorsport.com/
+Arabia Saudita,Saudi Automobile and Motorcycle Federation (SAMF),Info@samf.gov.sa,VERIFICATA,governativo,https://www.fia.com/members
+Qatar,Qatar Motor and Motorcycle Federation (QMMF),info@qmmf.com.qa,VERIFICATA,istituzionale,https://www.qmmf.com/
+Giordania,Jordan Motorsport,sales@jordanmotorsports.com,VERIFICATA,"reparto vendite, non navigazione",https://www.jordanmotorsport.com/
+Giordania,Royal Automobile Club of Jordan,dms@jordan-motorsport.com,VERIFICATA,istituzionale,https://www.fia.com/members
+Thailandia,Royal Automobile Association of Thailand (RAAT),admin@raat.or.th,VERIFICATA,istituzionale,https://www.raat.or.th/
+Malesia,Malaysian Automobile Association (MAA),secretariat@maa.org.my,VERIFICATA,istituzionale,https://www.maa.org.my/ordinary-member.html
+India,Federation of Motor Sports Clubs of India (FMSCI),info@fmsci.in,VERIFICATA,istituzionale,https://www.fia.com/members
+Australia,Four Wheel Drive Queensland,info@4wdqld.com.au,VERIFICATA,istituzionale,https://www.4wdqld.com.au/clubs
+Australia,Land Rover Owners Club of Victoria,lrocv.members@gmail.com,VERIFICATA,gmail condivisa,https://lrocv.com.au/
+Nuova Zelanda,New Zealand Four Wheel Drive Association (NZFWDA),membership@nzfwda.org.nz,VERIFICATA,istituzionale,https://www.nzfwda.org.nz/clubs/47/
+Francia,Fédération Française de 4x4 (FF4x4),contact@ff4x4.fr,NON CONFERMATA,istituzionale,https://www.ff4x4.fr/
+Ucraina,Automobile Federation of Ukraine (FAU),office@fau.ua,VERIFICATA,istituzionale,https://fau.ua/federation/
+Danimarca,Dansk Automobil Sports Union (DASU),dasu@dasu.dk,VERIFICATA,da valutare,https://www.dasu.dk/kontakt-dasu/
+Svezia,Svenska Bilsportförbundet (SBF),mailbox@sbf.se,VERIFICATA,istituzionale,https://www.sbf.se/forbundet/forbundets-kontaktuppgifter
+Norvegia,Norges Motorsportforbund (NMF),nmf@nmfsport.no,VERIFICATA,da valutare,https://nmfsport.no/kontakt-oss/
+Finlandia,AKK-Motorsport (Off Road),pj.offroad@autourheilu.fi,NON CONFERMATA,da valutare,https://www.autourheilu.fi/akk/yhteystiedot/
+Moldova,Automobile Club of Moldova (ACM),office@acm.md,VERIFICATA,istituzionale,https://www.acm.md/ro
+Georgia,Georgian Automobile Sport Federation (GASF),info@gasf.co,VERIFICATA,istituzionale,https://gasf.ge/en/contact
+Cipro,Cyprus Automobile Association (CAA),info@caa.com.cy,VERIFICATA,istituzionale,https://cyprusautomobileassociation.com/
+Argentina,Confederación Deportiva Automovilística (CDA/ACA),cda@aca.org.ar,VERIFICATA,da valutare,https://www.cdaaca.org.ar/contacto
+Argentina,Club de Automóviles Deportivos de Argentina (CADA),cada@fibertel.com.ar,VERIFICATA,da valutare,https://fierrosclasicos.com/clubes-de-autos/cada-club-de-automoviles-deportivos-de-argentina/
+Argentina,Desafío Ruta 40 (rally raid),competitors@desafioruta40.ar,VERIFICATA,da valutare,https://desafioruta40.ar/contacto/
+Argentina,Automóvil Club Argentino (ACA),busquedas@aca.org.ar,VERIFICATA,da valutare,https://www.aca.org.ar/canales-de-contacto/
+Cile,Automóvil Club de Chile,aescobar@automovilclub.cl,VERIFICATA,da valutare,https://www.fiaregion4.com/portfolio/chile
+Cile,Federación Chilena de Automovilismo (FADECH),contacto@fadech.cl,NON CONFERMATA,istituzionale,https://www.fadech.cl/contacto
+Bolivia,Automóvil Club Boliviano,secretaria@acbbolivia.com.bo,VERIFICATA,istituzionale,https://www.acbbolivia.com.bo/contacto
+Uruguay,Automóvil Club del Uruguay (ACU),acu@acu.com.uy,VERIFICATA,da valutare,https://www.mapeosociedadcivil.uy/organizaciones/automovil-club-del-uruguay/
+Paraguay,Touring y Automóvil Club Paraguayo (TACPy),capacitacion@tacpy.com.py,VERIFICATA,da valutare,https://paraguay.motorsportknowledgeinstitute.org/contact/
+Venezuela,Federación Venezolana de Automovilismo,contacto@automovilclubvenezuela.com,VERIFICATA,istituzionale,https://cov.com.ve/federaciones/
+Venezuela,Touring y Automóvil Club de Venezuela,yrosales@automovilclubvenezuela.com,VERIFICATA,da valutare,https://www.fiaregion4.com/portfolio/venezuela
+Guatemala,Automóvil Club de Guatemala,autoclubguate@yahoo.com,NON CONFERMATA,personale,https://www.kartcom.com/en/asn/automovil-club-de-guatemala/
+Honduras,Asociación Hondureña de Automovilismo (AHAD),Market4000@gmail.com,NON CONFERMATA,personale,https://www.fiaregion4.com/portfolio/honduras
+El Salvador,Automóvil Club de El Salvador (ACES),info@aces.com.sv,VERIFICATA,istituzionale,https://www.fiaregion4.com/portfolio/el-salvador
+Nicaragua,Club Automovilístico de Nicaragua (CADENIC),info@cadenic.com,VERIFICATA,istituzionale,http://cadenic.com/correo.html
+Repubblica Dominicana,Automóvil Club Dominicano (ACD),info@acd.com.do,NON CONFERMATA,istituzionale,https://licenciainternacionaldeconducir.com/
+Repubblica Dominicana,Federación Dominicana de Automovilismo (FDA),info@fda.do,VERIFICATA,istituzionale,https://fda.do/contacto
+Giamaica,Jamaica Millennium Motoring Club,jamotoringclub@gmail.com,VERIFICATA,personale,https://jamaicamotorsports.com/contact-us/
+Trinidad e Tobago,Trinidad and Tobago Automobile Association,ttaa@tstt.net.tt,VERIFICATA,da valutare,https://carnetdepassage.org/country/trinidad-tobago/
+Tunisia,Féd. Tunisienne de Motocyclisme (FTMAA),contact.ftmaa@gmail.com,VERIFICATA,personale,https://fim-africa.com/affiliated-fmns/
+Tunisia,Tunisie Challenge (rally-raid),info@tunisiechallenge.com,VERIFICATA,istituzionale,https://www.tunisiechallenge.com/en/contacts/
+Algeria,Fédération Algérienne des Sports Mécaniques (FASM),secretariat@fasm.dz,VERIFICATA,istituzionale,https://fim-africa.com/affiliated-fmns/
+Egitto,Automobile and Touring Club of Egypt (ATCE),info@atceegypt.net,VERIFICATA,istituzionale,https://fim-africa.com/affiliated-fmns/
+Egitto,Automobile and Touring Club of Egypt (ATCE),dgm@atceegypt.com,VERIFICATA,da valutare,https://fim-africa.com/contact-us/secretary-generals/
+Kenya,Kenya Motor Sports Federation (KMSF),info@motorsportkenya.com,VERIFICATA,istituzionale,https://motorsportkenya.com/contact-us/
+Kenya,Motorcycle Sports Federation of Kenya (MSFK),info@motorcyclesportskenya.org,VERIFICATA,istituzionale,https://motorcyclesportskenya.org/contact-us
+Botswana,Botswana Motor Sports (BMS),info@botswanamotorsport.co.bw,VERIFICATA,istituzionale,https://fim-africa.com/affiliated-fmns/
+Zimbabwe,Motorsport Zimbabwe (MSZ),motorsportzimbabwe23@gmail.com,VERIFICATA,personale,https://fim-africa.com/affiliated-fmns/
+Zimbabwe,Motorsport Zimbabwe (MSZ),officemzim@zol.co.zw,VERIFICATA,personale,https://motorsportzimbabwe.co.zw/contact-us/
+Zambia,Zambia Motor Sports Association (ZMSA),ZMSA@honda.com.zm,VERIFICATA,da valutare,https://fim-africa.com/affiliated-fmns/
+Mozambico,Fed. Moçambicana de Automobilismo (FMAM),geral@fmam.org.mz,VERIFICATA,istituzionale,https://www.fmam.org.mz/
+Mozambico,Fed. Moçambicana de Automobilismo (FMAM),jsilva@fmam.org.mz,VERIFICATA,da valutare,https://fim-africa.com/contact-us/secretary-generals/
+Angola,Federação Angolana de Motociclismo (FAM),famotociclismo.angola@outlook.com,VERIFICATA,personale,https://fim-africa.com/affiliated-fmns/
+Senegal,Féd. Sénégalaise de Sport Automobile (FSAM),dedemathieu@orange.sn,VERIFICATA,personale,https://fim-africa.com/affiliated-fmns/
+Costa d'Avorio,Fédération Moto Côte d'Ivoire (FMCI),fmci2011@gmail.com,VERIFICATA,personale,https://fim-africa.com/affiliated-fmns/
+Nigeria,Automobile & Touring Club of Nigeria (ATCN),info@atcn.org.ng,VERIFICATA,istituzionale,https://atcn.org.ng/
+Uganda,Federation of Motorsport Clubs of Uganda (FMCU),reyxxx7kadok@gmail.com,VERIFICATA,personale,https://fim-africa.com/contact-us/secretary-generals/
+Etiopia,Ethiopian Motorsport Association (EMSA),info@ethiopianmotorsport.com,NON CONFERMATA,istituzionale,https://ethiopianmotorsport.com/
+Ruanda,Rwanda Automobile Club (RAC),info@rac.rw,VERIFICATA,istituzionale,https://rac.rw/
+Giappone,Japan Automobile Federation (JAF),translation-jaf@o3.jaf.or.jp,NON CONFERMATA,da valutare,https://english.jaf.or.jp/contact/international-services
+Corea del Sud,Korea Automobile Racing Association (KARA),kara@kara.or.kr,NON CONFERMATA,da valutare,https://www.kara.or.kr/
+Kazakistan,Federation of Automotorsport of Kazakhstan (FAMS),info@fams.kz,VERIFICATA,istituzionale,https://fams.kz/
+Israele,Israel Automobile & Karting Association (ILAKA),ilaka.org@gmail.com,VERIFICATA,personale,https://www.ilaka.co.il/contact
+Kuwait,Kuwait International Automobile Club (KIAC),kiac-kwt@kiac.com.kw,VERIFICATA,da valutare,https://www.kiac.com.kw/contact.html
+Taiwan,Chinese Taipei Motor Sports Association (CTMSA),info@ctmsa.org.tw,VERIFICATA,istituzionale,https://www.ctmsa.org.tw/
+Hong Kong,"Hong Kong, China Automobile Association (HKAA)",general@hkaa.com.hk,VERIFICATA,istituzionale,https://www.hkaa.com.hk/
